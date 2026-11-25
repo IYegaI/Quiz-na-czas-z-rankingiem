@@ -2,7 +2,7 @@
     margin: 0;
 }
 
-.Container {
+#Container {
     text-align: center;
     display: grid;
     justify-items: center;
